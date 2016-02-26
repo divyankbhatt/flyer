@@ -86,6 +86,7 @@ return view('files.fileuploadview');
 		return view('photo.photogallaryview');
 	}
 	public function photoSwipe(){
+
 		return view('photo.photoswipeview');
 	}
 
